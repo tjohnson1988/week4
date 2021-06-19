@@ -1,0 +1,13 @@
+
+#create dictionary of inventory items
+items_for_sale = {"hot_dog": 4.5, "soda": 1.5, "chips": 1.0}
+print(items_for_sale)
+
+print("~~~Welcome to Wally's Hotdogs~~~")
+cashier_choice = input("[1] Start new transaction \n[2] Current running transactions \n[3] Exit" )
+
+def transaction():
+
+def current_transactions():
+
+def exit():
